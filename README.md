@@ -23,6 +23,8 @@ To join the competition and have the chance to win amazing prizes, do the follow
 3) **Zip** the detail_tabs folder
 4) **Send** an email to info@tutored.it with attached to it the zipped folder!
 
+The winner will be chosen based on the aderence to the design ( try to make your UI as similar as possible to it! ) and the submission time.
+
 ## Where to get help
 A few resources to get you started if this is your first Flutter project:
 
