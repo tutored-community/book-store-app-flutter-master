@@ -8,7 +8,7 @@ Here is a guide to do set it up:
 - [Install Flutter on your PC](https://flutter.dev/docs/get-started/install)
 
 Flutter run needs a device to install the app, so make sure you have an emulator active or a connected physical device (already set up with enalbed debug USB).
-When you have all ready, fork and download the code this repo and run this commands in the project folder:
+When you have all ready, download the code this repo and run this commands in the project folder:
 
 ```
 flutter pub get
@@ -18,9 +18,10 @@ flutter run
 ## Challenge
 To join the competition and have the chance to win amazing prizes, do the following:
 
-1) fork this repo
-2) work on it
-3) when you are ready, send an email to info@tutored.it containing the link to your repo!
+1) **Download** the code
+2) **Implement** the detail tabs, as shown in the Figma Design
+3) **Zip** the detail_tabs folder
+4) **Send** an email to info@tutored.it with attached to it the zipped folder!
 
 ## Where to get help
 A few resources to get you started if this is your first Flutter project:
