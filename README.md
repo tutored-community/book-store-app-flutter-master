@@ -7,15 +7,15 @@ To start the app, make sure to have the correct Flutter environment in your pc.
 Here is a guide to do set it up:
 - [Install Flutter on your PC](https://flutter.dev/docs/get-started/install)
 
-When you have all ready, clone this repo and run this commands in the project folder:
+Flutter run needs a device to install the app, so make sure you have an emulator active or a connected physical device (already set up with enalbed debug USB).
+When you have all ready, fork and download the code this repo and run this commands in the project folder:
 
 ```
 flutter pub get
 flutter run
 ```
 
-Flutter run needs a device to install the app, so make sure you have an emulator active or a connected physical device (already set up with enalbed debug USB).
-
+## Where to get help
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
@@ -24,3 +24,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view the
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+## Challenge
+To join the competition and have the chance to win amazing prizes, do the following:
+
+fork this repo
+work on it
+when you are ready, send an email to info@tutored.it containing the link to your repo!
