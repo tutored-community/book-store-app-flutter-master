@@ -29,7 +29,7 @@ class BookService {
               BookReview(
                   title: "Un ottimo libro",
                   text:
-                      "Barack Obama é un gigante della nostra epoca, in questo libro si mette a nudo con onestà e ironia, ci fa leggere il percorso tortuoso, difficile e imprevedibile della sua storia, dall'infanzia senza un padre e piena di discriminazioni, al suo idealismo utopitistico degli anni liceali fino all'inizio dell'avventura politica che molti anni dopo lo avrebbe portato al vertice con la presidenza.",
+                      "Barack Obama é un gigante della nostra epoca, in questo libro si mette a nudo con onestà e ironia, ci fa leggere il percorso tortuoso, difficile e imprevedibile della sua storia, dall'infanzia senza un padre e piena di discriminazioni, al suo idealismo utopistico degli anni liceali fino all'inizio dell'avventura politica che molti anni dopo lo avrebbe portato al vertice con la presidenza.",
                   rating: 4,
                   author: "Lorenzo R.",
                   authorProfileImage:
@@ -37,7 +37,7 @@ class BookService {
               BookReview(
                   title: "Un ottimo libro",
                   text:
-                      "Barack Obama é un gigante della nostra epoca, in questo libro si mette a nudo con onestà e ironia, ci fa leggere il percorso tortuoso, difficile e imprevedibile della sua storia, dall'infanzia senza un padre e piena di discriminazioni, al suo idealismo utopitistico degli anni liceali fino all'inizio dell'avventura politica che molti anni dopo lo avrebbe portato al vertice con la presidenza.",
+                      "Barack Obama é un gigante della nostra epoca, in questo libro si mette a nudo con onestà e ironia, ci fa leggere il percorso tortuoso, difficile e imprevedibile della sua storia, dall'infanzia senza un padre e piena di discriminazioni, al suo idealismo utopistico degli anni liceali fino all'inizio dell'avventura politica che molti anni dopo lo avrebbe portato al vertice con la presidenza.",
                   rating: 4,
                   author: "Lorenzo R.",
                   authorProfileImage:
@@ -62,7 +62,7 @@ class BookService {
               BookReview(
                   title: "Un ottimo libro",
                   text:
-                      "Barack Obama é un gigante della nostra epoca, in questo libro si mette a nudo con onestà e ironia, ci fa leggere il percorso tortuoso, difficile e imprevedibile della sua storia, dall'infanzia senza un padre e piena di discriminazioni, al suo idealismo utopitistico degli anni liceali fino all'inizio dell'avventura politica che molti anni dopo lo avrebbe portato al vertice con la presidenza.",
+                      "Barack Obama é un gigante della nostra epoca, in questo libro si mette a nudo con onestà e ironia, ci fa leggere il percorso tortuoso, difficile e imprevedibile della sua storia, dall'infanzia senza un padre e piena di discriminazioni, al suo idealismo utopistico degli anni liceali fino all'inizio dell'avventura politica che molti anni dopo lo avrebbe portato al vertice con la presidenza.",
                   rating: 4,
                   author: "Lorenzo R.",
                   authorProfileImage:
@@ -70,7 +70,7 @@ class BookService {
               BookReview(
                   title: "Un ottimo libro",
                   text:
-                      "Barack Obama é un gigante della nostra epoca, in questo libro si mette a nudo con onestà e ironia, ci fa leggere il percorso tortuoso, difficile e imprevedibile della sua storia, dall'infanzia senza un padre e piena di discriminazioni, al suo idealismo utopitistico degli anni liceali fino all'inizio dell'avventura politica che molti anni dopo lo avrebbe portato al vertice con la presidenza.",
+                      "Barack Obama é un gigante della nostra epoca, in questo libro si mette a nudo con onestà e ironia, ci fa leggere il percorso tortuoso, difficile e imprevedibile della sua storia, dall'infanzia senza un padre e piena di discriminazioni, al suo idealismo utopistico degli anni liceali fino all'inizio dell'avventura politica che molti anni dopo lo avrebbe portato al vertice con la presidenza.",
                   rating: 4,
                   author: "Lorenzo R.",
                   authorProfileImage:
